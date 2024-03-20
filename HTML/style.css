@@ -356,12 +356,12 @@ article .icon {
 }
 
 .category img {
-  width: 100%;
-  max-width: 300px;
+  width: 500%;
+  max-width: 325px;
   border: 2px solid #ddd;
   border-radius: 8px;
   transition: 0.3s;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 .category .caption {
