@@ -263,10 +263,6 @@ section {
   position: relative;
 }
 
-.quote-text-container{
-  font-family: lucida, cursive;
-  font-size: 30px;
-  
 .about-containers {
   gap: 2rem;
   margin-bottom: 2rem;
